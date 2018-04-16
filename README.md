@@ -1,3 +1,3 @@
 # hello-world
 initial training
-i am new to all this. this is my initial repository in github. thank you. -starmann
+i am new to this all. this is my initial repository in github. thank you. - the stArm4n ^_^
